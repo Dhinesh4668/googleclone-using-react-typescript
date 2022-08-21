@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Dhinesh4668/googleclone-using-react-typescript/static/css/main.7c9d8b00.css",
+    "main.js": "/Dhinesh4668/googleclone-using-react-typescript/static/js/main.03dcd1d5.js",
+    "index.html": "/Dhinesh4668/googleclone-using-react-typescript/index.html",
+    "main.7c9d8b00.css.map": "/Dhinesh4668/googleclone-using-react-typescript/static/css/main.7c9d8b00.css.map",
+    "main.03dcd1d5.js.map": "/Dhinesh4668/googleclone-using-react-typescript/static/js/main.03dcd1d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c9d8b00.css",
+    "static/js/main.03dcd1d5.js"
+  ]
+}
