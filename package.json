@@ -1,7 +1,6 @@
 {
   "name": "google-search-clone",
   "version": "1.0.0.0",
-  "homepage": "https://github.com/Dhinesh4668/googleclone-using-react-typescript",
   "private": true,
   "dependencies": {
     "@heroicons/react": "^1.0.6",
